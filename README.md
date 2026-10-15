@@ -9,6 +9,8 @@ Do Olympic triathletes and weightlifters differ significantly in BMI, how large 
 ## _Dataset_
 The dataset containing data on all Olympic games from Athens 1896 to Rio 2016 was obtained from Kaggle. It can be downloaded here: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data 
 
+## _Results_
+The results are presented and discussed in the report which can be found in pdf file "LATEX_report.pdf".
 ## _Installation_
 
 1. Make sure you have Python 3.12 (or newer) installed. 
